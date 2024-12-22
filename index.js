@@ -20,7 +20,7 @@ async function selectTopic(fileName)
     }
     try
     {
-        const fileUrl = `Themes/${fileName}`;
+        const fileUrl = `Topics/${fileName}`;
         const response = await fetch(fileUrl);
 
         if (!response.ok)
@@ -29,7 +29,7 @@ async function selectTopic(fileName)
         }
 
         const markdownText = await response.text();
-        localStorage.setItem('theme', markdownText);
+        localStorage.setItem('topic', markdownText);
 
         if (window.location.pathname.includes('topicsRU.html'))
         {
@@ -37,7 +37,7 @@ async function selectTopic(fileName)
         }
         else
         {
-            window.location.href = 'playground.html';
+            window.location.href = 'topic.html';
         }
     }
     catch (error)
@@ -123,11 +123,11 @@ async function createPaymentLink()
 ////////////////////////////////////////////* Events *////////////////////////////////////////////
 
 document.addEventListener('DOMContentLoaded', async () => {
-    if (window.location.pathname.endsWith('/playground.html') || window.location.pathname.endsWith('/playgroundRU.html'))
+    if (window.location.pathname.endsWith('/topic.html') || window.location.pathname.endsWith('/playgroundRU.html'))
     {
         window.Telegram.WebApp.BackButton.show();
 
-        if(window.location.pathname.endsWith('/playground.html'))
+        if(window.location.pathname.endsWith('/topic.html'))
         {
             window.Telegram.WebApp.BackButton.onClick(() => {
                 window.location.href = 'index.html';
@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         const responseElement = document.getElementById('response-text');
-        const responseText = localStorage.getItem('theme');
+        const responseText = localStorage.getItem('topic');
 
         if (responseText)
         {
@@ -153,73 +153,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
         else
         {
-            responseElement.innerText = "No theme.";
+            responseElement.innerText = "No topic.";
         }
 
-        const editor = CodeMirror.fromTextArea(document.getElementById('code-editor'), {
-            mode: 'text/x-c++src',
-            matchBrackets: true,
-            theme: 'playground',
-        });
-
-        const inputEditor = CodeMirror.fromTextArea(document.getElementById('input'), { theme: 'playground', lineWrapping: true });
-        const outputEditor = CodeMirror.fromTextArea(document.getElementById('output'), { readOnly: 'nocursor', theme: 'playground', lineWrapping: true });
         const questionEditor = CodeMirror.fromTextArea(document.getElementById('question'), { theme: 'playground', lineWrapping: true, indentWithTabs: false, indentUnit: 0 });
-
-        const editorWrapper = editor.getWrapperElement();
-        editorWrapper.style.fontFamily = '"Courier New", Courier, monospace';
-        editorWrapper.style.fontSize = '17px';
-        editorWrapper.style.padding = '2px';
-
-        const inputWrapper = inputEditor.getWrapperElement();
-        inputWrapper.style.fontFamily = '"Courier New", Courier, monospace';
-        inputWrapper.style.fontSize = '17px';
-        inputWrapper.style.padding = '2px';
-        inputWrapper.style.height = '50px';
-
-        const outputWrapper = outputEditor.getWrapperElement();
-        outputWrapper.style.fontFamily = '"Courier New", Courier, monospace';
-        outputWrapper.style.fontSize = '17px';
-        outputWrapper.style.padding = '2px';
-        outputWrapper.style.height = '150px';
 
         const questionWrapper = questionEditor.getWrapperElement();
         questionWrapper.style.fontFamily = '"Courier New", Courier, monospace';
         questionWrapper.style.fontSize = '17px';
         questionWrapper.style.padding = '2px';
         questionWrapper.style.height = '300px';
-
-        const runButton = document.getElementById('run-button');
-        runButton.addEventListener('click', async () => {
-            const code = editor.getValue();
-            let input = inputEditor.getValue();
-            input = input.split(',').map(item => item.trim()).join('\n');
-
-            try
-            {
-                const response = await fetch('https://sapphireserver.almandine.ch:443/execute_cpp', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({ code: code, input: input })
-                });
-
-                if (!response.ok)
-                {
-                    throw new Error(`HTTP Error: ${response.status}`);
-                }
-
-                const data = await response.json();
-                const output = data.output;
-                outputEditor.setValue(output);
-            }
-            catch (error)
-            {
-                outputEditor.setValue(`Error: ${error.message}`);
-                console.error("Error:", error);
-            }
-        });
 
         const askButton = document.getElementById('ask-button');
         askButton.addEventListener('click', async () => {
