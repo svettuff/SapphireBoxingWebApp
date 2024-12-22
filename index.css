@@ -1,0 +1,147 @@
+﻿html, body {
+    height: auto;
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #ddd;
+}
+
+.form-container {
+    width: 600px;
+    max-width: 100%;
+    padding: 20px;
+    background-color: #ddd;
+    border: 1px solid #ddd;
+    border-radius: 16px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.form-container h3 {
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.form-container fieldset:first-of-type h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.form-container fieldset:not(:first-of-type) h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.topic-button-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.topic-button {
+    width: calc(100% - 20px);
+    padding: 12px;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    border-radius: 12px;
+    background-color: #44475a;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    font-family: inherit;
+    text-align: center;
+}
+
+.topic-button:hover {
+    background-color: #383b4a;
+}
+
+.topic-button.locked {
+    background-color: black;
+    color: #666;
+    cursor: not-allowed;
+    position: relative;
+}
+
+.topic-button.locked::after {
+    content: "🔒";
+    font-size: 18px;
+    position: absolute;
+    right: 12px;
+}
+
+.connector {
+    width: 2px;
+    height: 30px;
+    background-color: #ccc;
+    border-left: 2px dashed #ccc;
+    margin: 0 auto;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+}
+
+.modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 50%;
+}
+
+.modal-content {
+    background-color: #44475a;
+    padding: 20px;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 20px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    color: white;
+    font-family: inherit;
+    position: relative;
+}
+
+.modal-buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.modal-buttons button {
+    width: 45%;
+    padding: 10px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #383b4a;
+    color: white;
+    transition: background-color 0.2s ease;
+}
+
+.modal-buttons button:hover {
+    background-color: #575b6d;
+}
