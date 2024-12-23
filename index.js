@@ -183,7 +183,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const askButton = document.getElementById('ask-button');
         askButton.addEventListener('click', async () => {
+            const topic = localStorage.getItem('topic');
             const question = questionEditor.getValue();
+            const fullQuestion = `Topic: ${topic}\nQuestion: ${question}`;
 
             try
             {
@@ -192,7 +194,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     headers: {
                         'Content-Type': 'application/json'
                     },
-                    body: JSON.stringify({ question: question })
+                    body: JSON.stringify({ question: fullQuestion })
                 });
 
                 if (!response.ok)
