@@ -1,27 +1,27 @@
-﻿## Боксерские уклоны и нырки
+## Boxing Slips and Ducks
 
-### Боковые уклоны
+### Side Slips
 
-Один из самых эффективных приёмов защиты в боксе, широко применяемый в советской школе. Эта техника позволяет не только избегать ударов соперника, но и создавать выгодные положения для контратакующих действий.
+One of the most effective defensive techniques in boxing, widely used in the Soviet school. This technique not only helps to avoid the opponent's punches but also creates advantageous positions for counterattacks.
 
-### Движение корпуса
+### Body Movement
 
-Боковой уклон выполняется за счёт перемещения верхней части тела в сторону. Корпус наклоняется влево или вправо в зависимости от направления атаки соперника. Важно, что уклон делается не только за счёт наклона, но и смещения таза и плеч, что помогает сохранять равновесие и мобильность.
+A side slip is performed by moving the upper body to the side. The torso tilts to the left or right depending on the direction of the opponent's attack. It's important that the slip is achieved not only by tilting but also by shifting the hips and shoulders, which helps maintain balance and mobility.
 
-- **Работа ног:** Важно, чтобы ноги всегда оставались в правильной позиции. Вес тела смещается с одной ноги на другую, но боксёр сохраняет стойку, что позволяет быстро восстановиться после уклона и быть готовым к следующему движению — атаке или дополнительной защите.
+- **Footwork:** It’s crucial that the feet always remain in the correct position. The body weight shifts from one foot to the other, but the boxer maintains their stance, allowing for quick recovery after the slip and readiness for the next move—either an attack or additional defense.
 
-- **Координация и баланс:** Боковые уклоны требуют идеального контроля над балансом. Важно, чтобы во время движения не было излишнего наклона вперёд или назад, что может привести к травмам или к слишком открытой стойке.
+- **Coordination and Balance:** Side slips require perfect control over balance. It’s essential to avoid excessive leaning forward or backward during the movement, which can lead to injuries or an overly open stance.
 
-Рекомендую выполнять это упражнение с небольшим весом, чтобы укрепить боковые мышцы спины и живота. Тогда вы будете чувствовать себя более комфортно при выполнении данного движения.
+I recommend performing this exercise with a small weight to strengthen the lateral back and abdominal muscles. This will make you feel more comfortable when performing the movement.
 
-### Нырки от боковых ударов
+### Ducks Against Hooks
 
-Нырки используются боксёром на средней или ближней дистанции, когда противник может провести боковые удары. Техника следующая:
+Ducks are used by boxers at medium or close range when the opponent might throw hooks. The technique is as follows:
 
-- **Приседание и уклон:** Нырок выполняется через небольшое приседание с одновременным движением корпуса вниз и в сторону под удар. Это помогает избежать удара по голове, сохраняя защитную позицию.
+- **Squatting and Slipping:** A duck is performed through a slight squat combined with a downward and sideways movement of the torso under the punch. This helps to avoid a head strike while maintaining a defensive position.
 
-- **Работа ног:** При нырке одна нога слегка смещается вперёд, обеспечивая плавное перемещение тела и удержание баланса. Боксёр должен оставаться устойчивым для быстрой контратаки.
+- **Footwork:** During the duck, one foot slightly shifts forward, ensuring smooth body movement and balance. The boxer must remain stable for a quick counterattack.
 
-- **Круговое движение корпуса:** Корпус движется по дуге — вниз и в сторону, избегая удара. Это минимизирует риск и позволяет сразу вернуться в исходную позицию для атаки. Очень важно при этом движении всегда видеть противника и не сгибать спину в дугу, чтобы избежать травм или неожиданных ударов в лоб.
+- **Circular Body Movement:** The torso moves in an arc—down and to the side—to evade the punch. This minimizes risk and allows for an immediate return to the starting position for an attack. It’s very important during this movement to always keep your opponent in sight and avoid bending the back into an arch to prevent injuries or unexpected frontal punches.
 
-Эти два движения отрабатываются в процессе разминки, работы в парах или на лапах. Лучше всего становиться перед зеркалом, чтобы видеть себя и исправлять свои ошибки.
+These two movements are practiced during warm-ups, pair work, or on pads. It’s best to stand in front of a mirror to observe yourself and correct your mistakes.

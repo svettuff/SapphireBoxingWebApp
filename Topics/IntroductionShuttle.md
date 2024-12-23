@@ -1,25 +1,26 @@
-﻿## Введение
 
-Добро пожаловать на мой онлайн-курс по советскому стилю бокса. Цель этого проекта — научить каждого и каждую основам боксерской техники, поделиться интересными приёмами, проверенными в реальных боях, а также помочь вам обрести уверенность в себе и научиться постоять за себя.
+## Introduction
 
-Курс начинается с самых простых приёмов, и по мере его прохождения вы будете осваивать всё более сложные комбинации и движения. Я постарался сделать программу доступной для всех уровней — от новичков до тех, кто уже знаком с боксом. Вся информация и обучение подкреплены видео с правильным выполнением данных движений или комбинаций, чтобы все ошибки были видны.
+Welcome to my online course on the Soviet style of boxing. The goal of this project is to teach everyone the basics of boxing techniques, share interesting moves proven in real fights, and help you gain self-confidence and learn to stand up for yourself.
 
-Так что приготовьтесь к занятиям, вперёд к новым вершинам в боксе. Желаю вам продуктивных тренировок!
+The course begins with the simplest techniques, and as you progress, you will master increasingly complex combinations and movements. I have tried to make the program accessible to all levels—from beginners to those already familiar with boxing. All information and training are supplemented with videos demonstrating the correct execution of these movements or combinations, so any mistakes can be easily identified.
 
-### «Челнок»
+Get ready for training and aim for new heights in boxing. Wishing you productive workouts!
 
-Но какая же первая тренировка без обучения технике. Начнём с боксерской стойки, которая в советской школе бокса называется **«челнок»**.
+### The "Shuttle"
 
-Челнок в боксе — это лёгкое и быстрое движение вперёд-назад на полусогнутых ногах. Оно помогает боксёру оставаться подвижным, сохранять равновесие и быстро реагировать на действия соперника.
+No first training session is complete without learning a basic technique. Let’s start with the boxing stance, which in the Soviet school of boxing is called the **“shuttle.”**
 
-### Техника выполнения
+In boxing, the shuttle is a light and quick forward-and-backward movement performed on slightly bent legs. It helps the boxer stay mobile, maintain balance, and react quickly to the opponent’s actions.
 
-1. **Поставь ноги на ширине плеч**, одна чуть впереди (на той, на которой ты чувствуешь себя комфортно).
+### Execution Technique
 
-2. **Легко переноси вес** с одной ноги на другую, двигаясь вперёд и назад.
+1. **Position your feet shoulder-width apart,** with one foot slightly ahead (whichever feels most comfortable).
 
-3. При движении вперёд **передняя нога делает шаг**, а **задняя подтягивается** при движении назад — наоборот.
+2. **Gently shift your weight** from one foot to the other, moving forward and backward.
 
-4. **Важно:** всегда оставайся на полусогнутых ногах и двигайся легко, без скачков, чтобы быть готовым к атаке или защите.
+3. When moving forward, **the front foot steps forward,** and **the back foot follows.** When moving backward, do the opposite.
 
-Челнок позволяет менять дистанцию с соперником и избегать ударов, сохраняя при этом активность и готовность к контратаке.
+4. **Important:** Always stay on slightly bent legs and move lightly, without jumping, to remain ready for attack or defense.
+
+The shuttle allows you to adjust your distance from the opponent and avoid punches while staying active and ready to counterattack.

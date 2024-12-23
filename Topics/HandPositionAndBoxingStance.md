@@ -1,31 +1,22 @@
-﻿
-## Постановка рук и боксерской стойки
-В советской школе бокса большое внимание уделялось правильной стойке и постановке рук, что обеспечивало стабильную защиту и готовность к атаке.
 
-  
+## Hand Position and Boxing Stance
 
-### Боксерская стойка
+In the Soviet school of boxing, great attention was paid to proper stance and hand positioning, ensuring stable defense and readiness to attack.
 
-  
+### Boxing Stance
 
-Если рассматривать боксерскую стойку в целом, она должна быть полностью мобильной и напоминать форму водного сосуда. Куда направляется удар, туда и двигается корпус — всё как одно движение, ничего не должно оставаться статичным при изменении положения назад, вперёд или в стороны.
+When considering the boxing stance as a whole, it should be completely mobile and resemble the shape of a water vessel. Wherever the punch is directed, the torso moves in that direction—it’s all one movement, with nothing remaining static when shifting back, forward, or to the sides.
 
-1. **Ноги:** на ширине плеч, передняя нога немного впереди (если ты правша, левая нога спереди). Обе ноги слегка согнуты, вес равномерно распределён.
+1. **Feet:** Shoulder-width apart, the front foot slightly ahead (if you are right-handed, the left foot is in front). Both knees are slightly bent, and weight is evenly distributed.
 
-2. **Корпус:** слегка наклонён вперёд, плечи расслаблены.
+2. **Torso:** Slightly leaning forward, with relaxed shoulders.
 
-3. **Голова:** подбородок прижат к груди, взгляд направлен на соперника.
+3. **Head:** Chin tucked into the chest, eyes focused on the opponent.
 
-  
+### Hand Position
 
-### Постановка рук
+1. **Front Hand** (left for right-handers): The elbow shields the torso, the fist is at shoulder level, and slightly extended forward. This hand is used for jabs and defense.
 
-1. **Передняя рука** (левая для правши)**:** локоть прикрывает корпус, кулак на уровне плеча, слегка вытянут вперёд. Эта рука служит для джебов и защиты.
+2. **Back Hand** (right for right-handers): Positioned closer to the chin, protecting the jaw and ready for powerful punches.
 
-2. **Задняя рука** (правая для правши)**:** ближе к подбородку, прикрывает челюсть и готова к мощным ударам.
-
-  
-
-В такой стойке боксер всегда готов к защите и атаке, при этом эффективно защищает голову и корпус, оставаясь мобильным и не зажатым.
-
-
+In this stance, the boxer is always prepared for defense and attack while effectively protecting the head and torso, staying mobile and not tense.

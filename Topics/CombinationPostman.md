@@ -1,19 +1,20 @@
-﻿## Комбинация "Почтальон"
 
-Теперь давайте разберём популярную и эффективную комбинацию под названием **"Почтальон"**. Эта комбинация состоит из трёх чётких прямых ударов: два левых джеба и один правый прямой. Все удары раздельны, и каждый из них выполняется с точностью и намерением.
+## "Postman" Combination
 
-Почему эта комбинация называется "Почтальон"? Потому что она напоминает процесс, когда почтальон стучит в дверь: сначала два удара левой рукой, затем, когда дверь открывается, наносится третий удар правой рукой — уже в открытую дверь, то есть в противника.
+Let’s break down the popular and effective combination known as the **"Postman"**. This combination consists of three precise straight punches: two left jabs and one right straight. Each punch is distinct and delivered with accuracy and intent.
 
-### Техника выполнения
+Why is this combination called "Postman"? Because it resembles the process of a postman knocking on a door: first two knocks with the left hand, then, when the door opens, the third punch with the right hand—right into the open door, i.e., the opponent.
 
-1. **Двойной джеб:**
+### Execution Technique
 
-- Первый джеб выполняется быстро, но без полной силы. Цель этого удара — проверить защиту противника, отвлечь его внимание или заставить его отступить. Он помогает создать дистанцию или "открыть" защиту противника для последующего удара.
+1. **Double Jab:**
 
-- Второй джеб следует сразу за первым, он может быть более акцентированным и направлен на удержание противника на месте или его подготовку к основному удару — правому прямому. Этот удар часто используется как подготовительный для правого прямого.
+- The first jab is executed quickly but not with full force. The purpose of this punch is to test the opponent's defense, divert their attention, or force them to retreat. It helps create distance or "open up" the opponent's guard for the next punch.
 
-2. **Правый прямой:** После того как второй джеб отвлекает или выведет противника из равновесия, следует сильный удар правой рукой. Этот удар является основной силовой атакой в комбинации, его цель — нанести значительный урон.
+- The second jab follows immediately after the first, potentially more focused and aimed at keeping the opponent in place or setting them up for the main punch—the right straight. This punch is often used as preparatory for the right straight.
 
-### Советы по тренировке
+2. **Right Straight:** Once the second jab distracts or destabilizes the opponent, a strong punch with the right hand follows. This is the primary power strike in the combination, intended to inflict significant damage.
 
-Комбинацию "Почтальон" нужно отрабатывать до автоматизма, чтобы вы выполняли её не задумываясь. Попробуйте варьировать удары, например: два джеба в живот и один в голову, или два джеба в живот, а последний правый прямой в голову. Это добавит непредсказуемости вашей атаке, что не позволит противнику привыкнуть к вашей комбинации и повысит шансы на успешное поражение цели.
+### Training Tips
+
+The "Postman" combination should be practiced until it becomes second nature, allowing you to execute it without hesitation. Try varying the punches, for example: two jabs to the body and one to the head, or two jabs to the body followed by a right straight to the head. This adds unpredictability to your attack, preventing the opponent from adapting to your combination and increasing your chances of successfully landing the punches.

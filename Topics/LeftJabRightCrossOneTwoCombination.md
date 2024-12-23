@@ -1,17 +1,18 @@
-﻿## Левый прямой, правый прямой ("Двойка")
 
-Давайте разберём одну из самых простых, но одновременно самых эффективных комбинаций бокса — **двойку**. Почему она настолько результативна и почему стоит тренировать её тысячи раз, чтобы довести до идеала?
+## Left Jab, Right Cross ("One-Two" Combination)
 
-Наше тело устроено таким образом, что комфорт и баланс достигаются при перекладывании веса с одной части тела на другую. В двойке это отражается так: сначала бьём левой рукой, перекладывая вес тела на левую сторону и ногу, а затем, используя инерцию, выбрасываем правую руку. Получается два чётких удара с одним движением корпуса. Это и есть основное отличие двойки от одиночных ударов. В двойке тело движется слитно, переходя с одного удара на другой, что эффективно как при сближении дистанции, так и на отходе. Разберём эти два удара по отдельности:
+Let’s break down one of the simplest yet most effective boxing combinations—the **one-two.** Why is it so effective, and why should you train it thousands of times to perfect it?
 
-### Техника выполнения
+Our body is designed so that comfort and balance are achieved by shifting weight from one part of the body to another. In the one-two combination, this translates as follows: first, you punch with the left hand, shifting your weight to the left side and leg, and then, using the momentum, you throw the right hand. The result is two precise punches with one movement of the torso. This is the key difference between the one-two and single punches. In the one-two, the body moves fluidly, transitioning from one punch to the next, which is effective both when closing the distance and retreating. Let’s break these two punches down:
 
-1. **Джеб:** Быстрый и точный прямой удар левой рукой. Используется для подготовки атаки, разведки и контроля дистанции.
+### Execution Technique
 
-2. **Кросс (правый прямой):** Мощный прямой удар правой рукой, который следует сразу за джебом. Этот удар обладает высоким нокаутирующим потенциалом.
+1. **Jab:** A quick and precise straight punch with the left hand. It is used to set up the attack, probe, and control the distance.
 
-Чтобы эта комбинация стала автоматической, тренируйте её постоянно. В поединке вам не должно приходиться думать о том, как поставить ногу или выбросить руку — всё должно работать на уровне рефлексов.
+2. **Cross (Right Straight):** A powerful straight punch with the right hand that follows immediately after the jab. This punch has high knockout potential.
 
-**Усложнение комбинации:** Когда вы освоите стандартную двойку, можно добавлять элементы обмана: например, показываете удар в живот, но бьёте в голову; или наоборот, показываете в голову, а удар наносите в корпус. Вариаций этой комбинации множество, и важно выбрать подходящую в зависимости от ситуации в спарринге.
+To make this combination automatic, practice it constantly. During a fight, you should not have to think about foot placement or hand movement—everything should work reflexively.
 
-Однако начните с классической двойки — это база, на которой строятся более сложные приёмы.
+**Enhancing the Combination:** Once you master the standard one-two, you can add elements of deception: for example, feint a punch to the body but aim for the head, or vice versa. There are many variations of this combination, and it is important to choose the one that suits the situation in sparring.
+
+However, start with the classic one-two—it is the foundation upon which more complex techniques are built.

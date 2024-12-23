@@ -1,13 +1,14 @@
-﻿## Комбинация "Левый прямой, левый боковой"
 
-В этой комбинации существует множество вариаций. Её можно выполнять на скачке, на месте или на отходе. Самым эффективным вариантом является выполнение комбинации на отходе. Вы как бы провоцируете противника левым прямым, делаете шаг назад и в этот же момент наносите левый боковой, поражая соперника как спереди, так и сбоку.
+## "Left Jab, Left Hook" Combination
 
-### Техника выполнения
+This combination has many variations. It can be performed while advancing, stationary, or retreating. The most effective version is executing the combination while retreating. You essentially provoke the opponent with a left jab, step back, and at the same moment deliver a left hook, striking the opponent from the front and the side.
 
-1. **Левый прямой (джеб):** Удар наносится передней (левой) рукой, быстро и резко. Одновременно с ударом выполняется небольшой шаг вперёд левой ногой для сокращения дистанции. Плечо защищает подбородок, а правая рука остаётся у головы для защиты.
+### Execution Technique
 
-2. **Отход:** После нанесения джеба боксёр делает шаг назад или диагонально назад с одновременным отклонением корпуса, чтобы уйти от возможной контратаки.
+1. **Left Jab:** The punch is thrown with the lead (left) hand, quickly and sharply. Simultaneously, a small step forward with the left foot is made to close the distance. The shoulder protects the chin, while the right hand stays near the head for defense.
 
-3. **Левый боковой на отходе:** Когда противник движется на сближение, выполняется левый боковой удар на отходе. Он наносится из той же позиции, но с разворотом корпуса влево и переносом веса на правую ногу. Рука бьёт по дуге, а корпус чуть уходит назад, что позволяет избегать прямого контакта и сохранять баланс.
+2. **Retreat:** After delivering the jab, the boxer steps back or diagonally backward with a simultaneous tilt of the torso to evade a potential counterattack.
 
-Эта комбинация лучше всего отрабатывается на боксерских лапах, где тренер меняет дистанцию, двигаясь на вас после вашего переднего джеба.
+3. **Left Hook While Retreating:** As the opponent moves in, a left hook is delivered while retreating. It is thrown from the same position but with a torso twist to the left and a weight shift to the right foot. The arm punches in an arc, and the torso slightly leans back, allowing you to avoid direct contact and maintain balance.
+
+This combination is best practiced on boxing pads, where the coach changes distance, advancing toward you after your initial jab.

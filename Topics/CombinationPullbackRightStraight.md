@@ -1,15 +1,16 @@
-﻿## Комбинация "Оттяжка, правый прямой"
 
-Теперь давайте разберём комбинацию, которая широко используется как в советской, так и в американской школе бокса. Эта техника позволяет подходить к противнику на короткую дистанцию, дождавшись, когда он попытаться нанести удар, и использовать его промах для контратаки.
+## "Pullback, Right Straight" Combination
 
-### Техника выполнения
+Let’s analyze a combination widely used in both the Soviet and American boxing schools. This technique allows you to close in on the opponent at short range, wait for them to attempt a punch, and use their miss for a counterattack.
 
-1. **Подготовка к удару:** В момент оттяжки боксер сохраняет баланс, готовя правую руку для контрудара. Левое плечо слегка опущено, а правое плечо готово к движению. Важно не терять равновесие и оставаться подвижным, чтобы быстро среагировать.
+### Execution Technique
 
-2. **Оттяжка:** Когда противник начинает атаку, вы слегка приседаете, переносите вес на заднюю ногу и наклоняете корпус назад. Это заставляет противника промахнуться, а вы находитесь в отличной позиции для контратаки. Важно, чтобы оттяжка была плавной и не оставляла вас уязвимым для последующих атак.
+1. **Preparation for the Punch:** During the pullback, the boxer maintains balance, preparing the right hand for the counterpunch. The left shoulder is slightly lowered, while the right shoulder is poised to move. It’s important to maintain equilibrium and stay mobile to react quickly.
 
-3. **Удар:** После оттяжки, быстро возвращаете корпус в исходную позицию и одновременно выбрасываете правую руку. Энергия для удара исходит от правой ноги, которая даёт импульс и передает его через корпус в кулак. Локоть не должен выходить за линию удара, а плечо должно прикрывать подбородок, чтобы минимизировать уязвимость.
+2. **Pullback:** When the opponent begins their attack, you slightly crouch, shift your weight to the back foot, and tilt your torso backward. This causes the opponent to miss, leaving you in an excellent position for a counterattack. It’s essential that the pullback is smooth and doesn’t leave you vulnerable to follow-up attacks.
 
-4. **Финал:** После удара боксер возвращается в исходную стойку, готовясь к следующему движению или защите.
+3. **Punch:** After the pullback, quickly return your torso to the starting position and simultaneously throw the right hand. The energy for the punch comes from the right leg, which generates impulse and transfers it through the torso to the fist. The elbow should stay aligned with the punch, and the shoulder should shield the chin to minimize vulnerability.
 
-Эту комбинацию полезно отрабатывать как перед зеркалом, так и на боксерских лапах или мешке. Важно тренировать комбинацию на высокой скорости, чтобы вы могли своевременно вернуться в стойку и не остаться на задней ноге, что сделает ваш корпус уязвимым для возможных атак.
+4. **Finish:** After the punch, the boxer returns to the initial stance, ready for the next move or defense.
+
+This combination is best practiced in front of a mirror, on boxing pads, or a heavy bag. It’s important to train this combination at high speed to ensure you can promptly return to your stance and avoid remaining on the back foot, which could make your torso vulnerable to potential attacks.
