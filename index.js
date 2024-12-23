@@ -10,7 +10,7 @@ function unlockAllTopics()
 
 ////////////////////////////////////////////* Async Functions *////////////////////////////////////////////
 
-async function selectTopic(fileName)
+async function selectTopic(fileName, firstVideoName, secondVideoName)
 {
     const topicButton = event.target;
     if (topicButton.classList.contains('locked'))
@@ -30,10 +30,12 @@ async function selectTopic(fileName)
 
         const markdownText = await response.text();
         localStorage.setItem('topic', markdownText);
+        localStorage.setItem('video1', firstVideoName);
+        localStorage.setItem('video2', secondVideoName);
 
-        if (window.location.pathname.includes('topicsRU.html'))
+        if (window.location.pathname.includes('indexRU.html'))
         {
-            window.location.href = 'playgroundRU.html';
+            window.location.href = 'topicRU.html';
         }
         else
         {
@@ -123,7 +125,7 @@ async function createPaymentLink()
 ////////////////////////////////////////////* Events *////////////////////////////////////////////
 
 document.addEventListener('DOMContentLoaded', async () => {
-    if (window.location.pathname.endsWith('/topic.html') || window.location.pathname.endsWith('/playgroundRU.html'))
+    if (window.location.pathname.endsWith('/topic.html') || window.location.pathname.endsWith('/topicRU.html'))
     {
         window.Telegram.WebApp.BackButton.show();
 
@@ -136,7 +138,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         else
         {
             window.Telegram.WebApp.BackButton.onClick(() => {
-                window.location.href = 'topicsRU.html';
+                window.location.href = 'indexRU.html';
             });
         }
 
@@ -154,6 +156,21 @@ document.addEventListener('DOMContentLoaded', async () => {
         else
         {
             responseElement.innerText = "No topic.";
+        }
+
+        const firstVideoName = localStorage.getItem('video1');
+        const secondVideoName = localStorage.getItem('video2');
+
+        const firstVideoContainer = document.querySelector('.first-video-container video source');
+        if (firstVideoContainer && firstVideoName) {
+            firstVideoContainer.setAttribute('src', `Video/${firstVideoName}`);
+            firstVideoContainer.parentElement.load();
+        }
+
+        const secondVideoContainer = document.querySelector('.second-video-container video source');
+        if (secondVideoContainer && secondVideoName) {
+            secondVideoContainer.setAttribute('src', `Video/${secondVideoName}`);
+            secondVideoContainer.parentElement.load();
         }
 
         const questionEditor = CodeMirror.fromTextArea(document.getElementById('question'), { theme: 'playground', lineWrapping: true, indentWithTabs: false, indentUnit: 0 });

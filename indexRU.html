@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Курс Sapphire Boxing</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<div class="modal-overlay" id="modal-overlay">
+    <div class="modal-content">
+        <p>
+            <span>Стоимость доступа ко всем темам: 500⭐</span><br>
+            <span>Это поддерживает проект.</span><br>
+            <span>Спасибо!</span>
+        </p>
+        <div class="modal-buttons">
+            <button id="wallet-button">Оплатить</button>
+        </div>
+    </div>
+</div>
+<div class="form-container">
+    <form id="courseSelectionForm">
+        <fieldset>
+            <h3>Основы</h3>
+            <div class="topic-button-container">
+                <div class="topic-button" onclick="selectTopic('shuttle.md', 'shuttle-1.MOV', 'shuttle-2.MOV')">Введение в курс. Челнок</div>
+            </div>
+        </fieldset>
+    </form>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<script src="index.js"></script>
+</body>
+</html>
