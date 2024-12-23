@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const questionEditor = CodeMirror.fromTextArea(document.getElementById('question'), { theme: 'playground', lineWrapping: true, indentWithTabs: false, indentUnit: 0 });
 
         const questionWrapper = questionEditor.getWrapperElement();
-        questionWrapper.style.fontFamily = '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
+        questionWrapper.style.fontFamily = '"Courier New", Courier, monospace';
         questionWrapper.style.fontSize = '17px';
         questionWrapper.style.padding = '2px';
         questionWrapper.style.height = '300px';
