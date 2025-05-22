@@ -57,7 +57,7 @@ async function checkUserPayment()
     {
         try
         {
-            const response = await fetch('https://sapphireboxingserver.almandine.ch:443/check-user-payment', {
+            const response = await fetch('https://sapphireboxingserver.ansbackend.ch/check-user-payment', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -89,7 +89,7 @@ async function createPaymentLink()
 {
     try
     {
-        const response = await fetch('https://sapphireboxingserver.almandine.ch:443/generate-invoice', {
+        const response = await fetch('https://sapphireboxingserver.ansbackend.ch/generate-invoice', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({})
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
             try
             {
-                const response = await fetch('https://sapphireboxingserver.almandine.ch:443/ask', {
+                const response = await fetch('https://sapphireboxingserver.ansbackend.ch/ask', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
